@@ -1,2 +1,4 @@
 river
 sunny day
+green
+tea
